@@ -12,6 +12,10 @@ O arquivo `respostas/analise_api.ipynb` contém o código python  e explicaçõe
 
 ## Visualização de Dados
 
+![Screenshot Temperatura](/screenshots/dashboard_overview.png)
+![Screenshot Overview](/screenshots/dashboard_chamados.png)
+![Screenshot Chamados](/screenshots/dashboard_temperatura.png)
+
 O arquivo `respostas/relatorio_escritorio_de_dados.pbix` contém o relatório em Power BI. O mesmo também pode ser acessado via web através do atalho `respostas/Atalho_dashboard_web.pbix` ou diretamente [Nesse Link](https://app.powerbi.com/view?r=eyJrIjoiMjA5Y2FiNGQtMDEzYy00OTNmLWFlYWYtMmM3ZWMzYjAxNGYwIiwidCI6ImMyODMwNzZkLTJmYjgtNDVjMS1hOGFhLTQ1ZDFhNjc4Njc5MiJ9).
 (A visualização Web pode conter algumas limitações)
 
