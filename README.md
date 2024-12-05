@@ -1,5 +1,7 @@
 # Desafio Técnico - Cientista de Dados Júnior
 
+Este repositório contem arquivos de um teste técnico para o Escritório de Dados RJ. O repositório com detalhes do teste pode ser acessado [aqui](https://github.com/prefeitura-rio/emd-desafio-junior-data-scientist).
+
 ## Perguntas SQL
 
 O arquivo `respostas/analise_sql.sql` contém as queries necessárias para responder as perguntas do desafio SQL. Podem ser executadas diretamente no BigQuery.
